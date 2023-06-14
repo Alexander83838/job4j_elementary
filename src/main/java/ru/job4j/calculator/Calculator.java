@@ -18,5 +18,4 @@ public class Calculator {
         minus(2, 6);
     }
 
-
 }
